@@ -1,10 +1,10 @@
 {
     "width": 16,
     "height": 16,
-    "blockIdentity": "images._image",
+    "blockIdentity": "images.__imagePicker",
     "creator": "image.ofBuffer",
     "star": {
-        "namespace": "sprites.background",
+        "namespace": "images.stuff",
         "mimeType": "image/x-mkcd-f4"
     },
     "tags": "background"

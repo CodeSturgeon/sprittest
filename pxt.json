@@ -7,8 +7,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "sprites.background.g.jres",
-        "sprites.background.g.ts",
+        "images.stuff.jres",
+        "images.stuff.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
         "import.ts",
